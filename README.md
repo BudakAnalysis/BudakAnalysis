@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BudakAnalysis
 - 👀 I’m interested in Data Analysis & Data Engineering, with programs such as Python (using Pandas and MatPlotLib), SQL, dbt, Airflow and Power Query/BI.
 - 🌱 I’m currently learning the foundations to data engineering. 
-- ⚡ Fun fact: I like reading sci/fi and fantasy books, and am 1400 rating in chess!
+- ⚡ Fun fact: I like reading sci/fi and fantasy books, and am 1250 rating in chess!
